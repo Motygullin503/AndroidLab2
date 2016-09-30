@@ -54,6 +54,16 @@
                 android:layout_height="wrap_content"
                 android:text="@string/friends_optimised"/>
 
+            <Button
+                android:id="@+id/to_dialogs"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Открыть диалоги"/>
+<Button
+    android:id="@+id/to_news"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:text="Новости"/>
         </LinearLayout>
     </RelativeLayout>
 </RelativeLayout>
